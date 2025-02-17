@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+  @*   <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" /> *@
+    @* <link rel="stylesheet" href="~/task_2.styles.css" asp-append-version="true" /> *@
+    <link href="~/css/AdminStyleSheet.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div id="viewport">
+        <!-- Sidebar -->
+        <div id="sidebar">
+            <header>
+                <a href="#">My App</a>
+            </header>
+            <ul class="nav">
+                <li>
+                    <a href="#">
+                        <i class="zmdi zmdi-view-dashboard"></i> Dashboard
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="zmdi zmdi-link"></i> Shortcuts
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="zmdi zmdi-widgets"></i> Overview
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="zmdi zmdi-calendar"></i> Events
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="zmdi zmdi-info-outline"></i> About
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="zmdi zmdi-settings"></i> Services
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="zmdi zmdi-comment-more"></i> Contact
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <!-- Content -->
+        <div id="content">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar-brand" href="#"></a>
+            </nav>
+
+
+            <div class="container-fluid">
+               
+                <div>
+                    @RenderBody()
+                </div>
+            </div>
+        </div>
+
+
+
+     </div>
+    <footer>
+        <div class="text-center p-3">
+            © 2020 Copyright: <a class="text-white" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+        </div>
+    </footer>
+
+</body>
+</html>
