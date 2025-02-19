@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "G8emgyDsQHK+rGwImDXtkn/27uSVHIp2yw41joZcJQw=",
+  "Hash": "Zi01wECdi5IDZpJpTQxlXXg0AyBtfmJuW2dEWstn8mQ=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -304,8 +304,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "od14ck3kv8",
+      "Integrity": "BJSrVmmfVA//34Q8om4GDP8bQFMWII09g3z/mKIi2qw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -3756,51 +3756,6 @@
       ]
     },
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 16 Feb 2025 08:44:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -3811,7 +3766,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "366"
         },
         {
           "Name": "Content-Type",
@@ -3819,11 +3774,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"BJSrVmmfVA//34Q8om4GDP8bQFMWII09g3z/mKIi2qw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Feb 2025 08:44:28 GMT"
+          "Value": "Tue, 18 Feb 2025 08:42:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3833,7 +3788,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-BJSrVmmfVA//34Q8om4GDP8bQFMWII09g3z/mKIi2qw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.od14ck3kv8.css",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BJSrVmmfVA//34Q8om4GDP8bQFMWII09g3z/mKIi2qw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 08:42:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "od14ck3kv8"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BJSrVmmfVA//34Q8om4GDP8bQFMWII09g3z/mKIi2qw="
         }
       ]
     },

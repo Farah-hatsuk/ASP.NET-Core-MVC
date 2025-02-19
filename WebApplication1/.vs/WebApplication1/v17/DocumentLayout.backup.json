@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7935978A-FC9E-41F9-AB08-1B06885DCC3B}|WebApplication1\\WebApplication1.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7935978A-FC9E-41F9-AB08-1B06885DCC3B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7935978A-FC9E-41F9-AB08-1B06885DCC3B}|WebApplication1\\WebApplication1.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\webapplication1\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7935978A-FC9E-41F9-AB08-1B06885DCC3B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7935978A-FC9E-41F9-AB08-1B06885DCC3B}|WebApplication1\\WebApplication1.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\webapplication1\\webapplication1\\views\\home\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7935978A-FC9E-41F9-AB08-1B06885DCC3B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7935978A-FC9E-41F9-AB08-1B06885DCC3B}|WebApplication1\\WebApplication1.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7935978A-FC9E-41F9-AB08-1B06885DCC3B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7935978A-FC9E-41F9-AB08-1B06885DCC3B}|WebApplication1\\WebApplication1.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\webapplication1\\webapplication1\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7935978A-FC9E-41F9-AB08-1B06885DCC3B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7935978A-FC9E-41F9-AB08-1B06885DCC3B}|WebApplication1\\WebApplication1.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7935978A-FC9E-41F9-AB08-1B06885DCC3B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7935978A-FC9E-41F9-AB08-1B06885DCC3B}|WebApplication1\\WebApplication1.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7935978A-FC9E-41F9-AB08-1B06885DCC3B}|WebApplication1\\WebApplication1.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\webapplication1\\webapplication1\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7935978A-FC9E-41F9-AB08-1B06885DCC3B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7935978A-FC9E-41F9-AB08-1B06885DCC3B}|WebApplication1\\WebApplication1.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\webapplication1\\webapplication1\\views\\home\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7935978A-FC9E-41F9-AB08-1B06885DCC3B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7935978A-FC9E-41F9-AB08-1B06885DCC3B}|WebApplication1\\WebApplication1.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\webapplication1\\webapplication1\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,11 +58,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-18T08:42:42.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Shop.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\WebApplication1\\Views\\Home\\Shop.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Shop.cshtml",
@@ -70,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Recipes.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\WebApplication1\\Views\\Home\\Recipes.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Recipes.cshtml",
@@ -82,19 +99,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Info.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\WebApplication1\\Views\\Home\\Info.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Info.cshtml",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\WebApplication1\\Views\\Home\\Info.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Home\\Info.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T14:34:26.917Z"
+              "WhenOpened": "2025-02-16T14:34:26.917Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AboutUs.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\WebApplication1\\Views\\Home\\AboutUs.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\AboutUs.cshtml",
@@ -102,12 +120,11 @@
               "RelativeToolTip": "WebApplication1\\Views\\Home\\AboutUs.cshtml",
               "ViewState": "AgIAAFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T14:30:36.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T14:30:36.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
@@ -119,20 +136,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAHQBAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAtwCMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-16T14:09:44.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\WebApplication1\\Views\\User\\Profile.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\User\\Profile.cshtml",
@@ -144,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Rigester.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\WebApplication1\\Views\\User\\Rigester.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\User\\Rigester.cshtml",
@@ -156,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\WebApplication1\\Views\\User\\Login.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\User\\Login.cshtml",
@@ -168,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\WebApplication1\\Controllers\\User.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\User.cs",
@@ -180,13 +197,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABmAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-16T13:58:06.752Z",
               "EditorCaption": ""
