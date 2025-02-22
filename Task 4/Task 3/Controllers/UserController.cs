@@ -92,7 +92,7 @@ namespace Task_3.Controllers
 
 
 
-
+        
         public IActionResult Profile()
         {
 
@@ -105,6 +105,15 @@ namespace Task_3.Controllers
             return View();
         }
 
+
+
+        public IActionResult EditProfile()
+        {
+            return View();
+        }
+
+
+        [HttpPost]
         public IActionResult EditProfile(string name, string email, string password, string address, string phone)
         {
             HttpContext.Session.SetString("Name", name);
@@ -114,7 +123,7 @@ namespace Task_3.Controllers
             HttpContext.Session.SetString("Phone", phone);
 
 
-            return RedirectToAction("Profile");
+            return RedirectToAction("Profile" , "User");
 
         }
 
