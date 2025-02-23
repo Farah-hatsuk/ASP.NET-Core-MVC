@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\Task 4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D3A8F7D-747A-48AB-9CE9-94B5CD1982D9}|Task 3\\Task 3.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\task 4\\task 3\\views\\user\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D3A8F7D-747A-48AB-9CE9-94B5CD1982D9}|Task 3\\Task 3.csproj|solutionrelative:task 3\\views\\user\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D3A8F7D-747A-48AB-9CE9-94B5CD1982D9}|Task 3\\Task 3.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\task 4\\task 3\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D3A8F7D-747A-48AB-9CE9-94B5CD1982D9}|Task 3\\Task 3.csproj|solutionrelative:task 3\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3A8F7D-747A-48AB-9CE9-94B5CD1982D9}|Task 3\\Task 3.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\task 4\\task 3\\views\\user\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D3A8F7D-747A-48AB-9CE9-94B5CD1982D9}|Task 3\\Task 3.csproj|solutionrelative:task 3\\views\\user\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D3A8F7D-747A-48AB-9CE9-94B5CD1982D9}|Task 3\\Task 3.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\task 4\\task 3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,17 +62,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EditProfile.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\Task 4\\Task 3\\Views\\User\\EditProfile.cshtml",
               "RelativeDocumentMoniker": "Task 3\\Views\\User\\EditProfile.cshtml",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\Task 4\\Task 3\\Views\\User\\EditProfile.cshtml",
               "RelativeToolTip": "Task 3\\Views\\User\\EditProfile.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-20T19:34:19.878Z",
               "EditorCaption": ""
@@ -187,15 +187,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\Task 4\\Task 3\\Views\\User\\Login.cshtml",
               "RelativeDocumentMoniker": "Task 3\\Views\\User\\Login.cshtml",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\Task 4\\Task 3\\Views\\User\\Login.cshtml",
               "RelativeToolTip": "Task 3\\Views\\User\\Login.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAADIAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T16:27:59.313Z"
+              "WhenOpened": "2025-02-19T16:27:59.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

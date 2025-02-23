@@ -171,8 +171,7 @@
               "RelativeToolTip": "Task 3\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T16:29:49.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T16:29:49.554Z"
             },
             {
               "$type": "Document",
@@ -184,8 +183,7 @@
               "RelativeToolTip": "Task 3\\Views\\User\\Profile.cshtml",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAAGAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T16:28:28.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T16:28:28.815Z"
             },
             {
               "$type": "Document",
@@ -197,8 +195,7 @@
               "RelativeToolTip": "Task 3\\Views\\User\\Login.cshtml",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAADIAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T16:27:59.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T16:27:59.313Z"
             },
             {
               "$type": "Document",
@@ -210,8 +207,7 @@
               "RelativeToolTip": "Task 3\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T16:24:24.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T16:24:24.422Z"
             },
             {
               "$type": "Document",
@@ -223,8 +219,7 @@
               "RelativeToolTip": "Task 3\\Program.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T14:07:43.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T14:07:43.509Z"
             }
           ]
         }
