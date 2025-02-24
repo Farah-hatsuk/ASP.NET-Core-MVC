@@ -1,0 +1,14 @@
+﻿@model task_6.Models.Prodect
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<p>name : @Model.Name</p>  
+<p>name : @Model.Price</p>  
+<p>name : @Model.Description</p>  
+<img src="@Model.Image" />  
+
+<a asp-controller="Prodect" asp-action="Index">Back to List</a>
+
