@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\Task 3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4D3A8F7D-747A-48AB-9CE9-94B5CD1982D9}|Task 3\\Task 3.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\task 3\\task 3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3A8F7D-747A-48AB-9CE9-94B5CD1982D9}|Task 3\\Task 3.csproj|solutionrelative:task 3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D3A8F7D-747A-48AB-9CE9-94B5CD1982D9}|Task 3\\Task 3.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\task 3\\task 3\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D3A8F7D-747A-48AB-9CE9-94B5CD1982D9}|Task 3\\Task 3.csproj|solutionrelative:task 3\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -23,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{4D3A8F7D-747A-48AB-9CE9-94B5CD1982D9}|Task 3\\Task 3.csproj|solutionrelative:task 3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D3A8F7D-747A-48AB-9CE9-94B5CD1982D9}|Task 3\\Task 3.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\task 3\\task 3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D3A8F7D-747A-48AB-9CE9-94B5CD1982D9}|Task 3\\Task 3.csproj|solutionrelative:task 3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D3A8F7D-747A-48AB-9CE9-94B5CD1982D9}|Task 3\\Task 3.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\task 3\\task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D3A8F7D-747A-48AB-9CE9-94B5CD1982D9}|Task 3\\Task 3.csproj|solutionrelative:task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\Task 3\\Task 3\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Task 3\\Controllers\\HomeController.cs",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "Task 3\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T19:18:20.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T19:18:20.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\Task 3\\Task 3\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Task 3\\Views\\Home\\Index.cshtml",
@@ -67,12 +66,11 @@
               "RelativeToolTip": "Task 3\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T19:17:06.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T19:17:06.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\Task 3\\Task 3\\Views\\User\\Register.cshtml",
               "RelativeDocumentMoniker": "Task 3\\Views\\User\\Register.cshtml",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "Task 3\\Views\\User\\Register.cshtml",
               "ViewState": "AgIAACsAAAAAAAAAAAAgwE8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T16:32:23.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T16:32:23.582Z"
             },
             {
               "$type": "Document",
@@ -97,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\Task 3\\Task 3\\Views\\User\\Profile.cshtml",
               "RelativeDocumentMoniker": "Task 3\\Views\\User\\Profile.cshtml",
@@ -105,12 +102,11 @@
               "RelativeToolTip": "Task 3\\Views\\User\\Profile.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T16:28:28.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T16:28:28.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\Task 3\\Task 3\\Views\\User\\Login.cshtml",
               "RelativeDocumentMoniker": "Task 3\\Views\\User\\Login.cshtml",
@@ -118,18 +114,17 @@
               "RelativeToolTip": "Task 3\\Views\\User\\Login.cshtml",
               "ViewState": "AgIAAEEAAAAAAAAAAAAgwGUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T16:27:59.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T16:27:59.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\Task 3\\Task 3\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Task 3\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\Task 3\\Task 3\\Controllers\\UserController.cs",
               "RelativeToolTip": "Task 3\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T16:24:24.422Z",
               "EditorCaption": ""

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\task 6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{25E08967-AA9F-4DE2-90B8-8E3D178C7DF1}|task 6\\task 6.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\task 6\\task 6\\controllers\\prodectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E08967-AA9F-4DE2-90B8-8E3D178C7DF1}|task 6\\task 6.csproj|solutionrelative:task 6\\controllers\\prodectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E08967-AA9F-4DE2-90B8-8E3D178C7DF1}|task 6\\task 6.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\task 6\\task 6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E08967-AA9F-4DE2-90B8-8E3D178C7DF1}|task 6\\task 6.csproj|solutionrelative:task 6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{25E08967-AA9F-4DE2-90B8-8E3D178C7DF1}|task 6\\task 6.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\task 6\\task 6\\views\\prodect\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{25E08967-AA9F-4DE2-90B8-8E3D178C7DF1}|task 6\\task 6.csproj|solutionrelative:task 6\\views\\prodect\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25E08967-AA9F-4DE2-90B8-8E3D178C7DF1}|task 6\\task 6.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\task 6\\task 6\\controllers\\prodectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25E08967-AA9F-4DE2-90B8-8E3D178C7DF1}|task 6\\task 6.csproj|solutionrelative:task 6\\controllers\\prodectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25E08967-AA9F-4DE2-90B8-8E3D178C7DF1}|task 6\\task 6.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\task 6\\task 6\\models\\prodect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E08967-AA9F-4DE2-90B8-8E3D178C7DF1}|task 6\\task 6.csproj|solutionrelative:task 6\\models\\prodect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25E08967-AA9F-4DE2-90B8-8E3D178C7DF1}|task 6\\task 6.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\task 6\\task 6\\views\\prodect\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{25E08967-AA9F-4DE2-90B8-8E3D178C7DF1}|task 6\\task 6.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\task 6\\task 6\\views\\prodect\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{25E08967-AA9F-4DE2-90B8-8E3D178C7DF1}|task 6\\task 6.csproj|solutionrelative:task 6\\views\\prodect\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25E08967-AA9F-4DE2-90B8-8E3D178C7DF1}|task 6\\task 6.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\task 6\\task 6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25E08967-AA9F-4DE2-90B8-8E3D178C7DF1}|task 6\\task 6.csproj|solutionrelative:task 6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25E08967-AA9F-4DE2-90B8-8E3D178C7DF1}|task 6\\task 6.csproj|c:\\users\\orange\\desktop\\asp.net-core-mvc\\task 6\\task 6\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +50,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Prodect.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\task 6\\task 6\\Models\\Prodect.cs",
+              "RelativeDocumentMoniker": "task 6\\Models\\Prodect.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\task 6\\task 6\\Models\\Prodect.cs",
+              "RelativeToolTip": "task 6\\Models\\Prodect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T06:34:44.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\task 6\\task 6\\Views\\Prodect\\Edit.cshtml",
               "RelativeDocumentMoniker": "task 6\\Views\\Prodect\\Edit.cshtml",
@@ -62,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\task 6\\task 6\\Views\\Prodect\\Details.cshtml",
               "RelativeDocumentMoniker": "task 6\\Views\\Prodect\\Details.cshtml",
@@ -74,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\task 6\\task 6\\Views\\Prodect\\Create.cshtml",
               "RelativeDocumentMoniker": "task 6\\Views\\Prodect\\Create.cshtml",
@@ -86,45 +102,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\task 6\\task 6\\Views\\Prodect\\Index.cshtml",
               "RelativeDocumentMoniker": "task 6\\Views\\Prodect\\Index.cshtml",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\task 6\\task 6\\Views\\Prodect\\Index.cshtml",
               "RelativeToolTip": "task 6\\Views\\Prodect\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T14:50:31.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T14:50:31.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProdectController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\task 6\\task 6\\Controllers\\ProdectController.cs",
               "RelativeDocumentMoniker": "task 6\\Controllers\\ProdectController.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\task 6\\task 6\\Controllers\\ProdectController.cs",
               "RelativeToolTip": "task 6\\Controllers\\ProdectController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowC8AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T14:47:24.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\task 6\\task 6\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "task 6\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\task 6\\task 6\\Controllers\\HomeController.cs",
               "RelativeToolTip": "task 6\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T14:43:55.018Z"
+              "WhenOpened": "2025-02-24T14:43:55.018Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\task 6\\task 6\\appsettings.json",
               "RelativeDocumentMoniker": "task 6\\appsettings.json",
@@ -136,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\task 6\\task 6\\Program.cs",
               "RelativeDocumentMoniker": "task 6\\Program.cs",
@@ -148,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MyDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET-Core-MVC\\task 6\\task 6\\Models\\MyDbContext.cs",
               "RelativeDocumentMoniker": "task 6\\Models\\MyDbContext.cs",

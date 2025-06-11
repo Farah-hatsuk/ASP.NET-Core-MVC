@@ -54,9 +54,13 @@ namespace task_6.Controllers
 
         }
 
+       
+
+
         [HttpPost]
         public IActionResult Delete(int Id)
         {
+            var x = Request.Form["Id"];
             var prodect = _context.Prodects.Find(Id);
             _context.Prodects.Remove(prodect);
             _context.SaveChanges();

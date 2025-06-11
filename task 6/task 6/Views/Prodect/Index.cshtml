@@ -19,8 +19,9 @@
 
                 <a class="btn btn-primary" asp-controller="Prodect" asp-action="Details" asp-route-id="@item?.Id">Details</a>
                 <a class="btn btn-warning" asp-controller="Prodect" asp-action="Edit" asp-route-id="@item?.Id">Edit</a>
-                <form asp-action="Delete" onsubmit="return confirm ('are you sure ?')" > 
-                    <input type="hidden" value="@item.Id"/>
+                <a class="btn btn-warning" asp-controller="Prodect" asp-action="Delete" asp-route-id="@item?.Id">Delete</a>
+                <form asp-action="Delete" method="post" onsubmit="return confirm('Are you sure?')">
+                    <input type="hidden" name="Id" value="@item?.Id" />
                     <button class="btn btn-danger" type="submit">Delete</button>
                 </form>
                 @* <a class="btn btn-danger"  asp-controller="Prodect" asp-action="Delete" asp-route-id="@item?.Id">Delete</a> *@
